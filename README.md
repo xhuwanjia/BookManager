@@ -1,5 +1,5 @@
 # 第一步：搭建项目框架
-    git checkout step-1-project-framework
+
 ## 1.搭建框架
 我们计划使用Maven来管理项目，并使用Spring Boot（SSM）作为我们项目的主体框架。
 Spring Boot是目前最流行的开源框架，在[https://start.spring.io/](https://start.spring.io/)
