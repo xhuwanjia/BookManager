@@ -4,9 +4,6 @@ import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Created by nowcoder on 2018/08/07 下午2:56
- */
 public class CookieUtils {
 
   private static int COOKIE_AGE = 60 * 60 * 24 * 7;

@@ -3,9 +3,7 @@ package com.wj.bookmanager.utils;
 import com.wj.bookmanager.model.Ticket;
 import org.joda.time.DateTime;
 
-/**
- * Created by nowcoder on 2018/08/07 下午3:31
- */
+
 public class TicketUtils {
 
   public static Ticket next(int uid){

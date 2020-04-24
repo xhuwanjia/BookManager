@@ -5,9 +5,6 @@ import com.wj.bookmanager.model.Ticket;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by nowcoder on 2018/08/07 下午2:52
- */
 @Service
 public class TicketService {
 

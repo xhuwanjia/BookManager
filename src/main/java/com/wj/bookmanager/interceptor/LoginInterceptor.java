@@ -12,9 +12,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
 import org.springframework.web.servlet.HandlerInterceptor;
 
-/**
- * Created by nowcoder on 2018/08/07 下午4:13
- */
 @Component
 public class LoginInterceptor implements HandlerInterceptor {
 

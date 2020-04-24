@@ -1,7 +1,7 @@
 package com.wj.bookmanager.model.exceptions;
 
 /**
- * 注册和登录时的异常 Created by nowcoder on 2018/08/07 下午3:12
+ * 注册和登录时的异常
  */
 public class LoginRegisterException extends RuntimeException {
 

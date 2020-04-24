@@ -2,9 +2,6 @@ package com.wj.bookmanager.utils;
 
 import java.security.MessageDigest;
 
-/**
- * Created by nowcoder on 2018/08/07 下午2:30
- */
 public class MD5 {
 
   public static String next(String key) {

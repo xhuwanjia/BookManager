@@ -15,9 +15,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
 import org.springframework.web.servlet.HandlerInterceptor;
 
-/**
- * Created by nowcoder on 2018/08/07 下午5:06
- */
+
 @Component
 public class HostInfoInterceptor implements HandlerInterceptor {
 

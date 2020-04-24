@@ -2,9 +2,6 @@ package com.wj.bookmanager.utils;
 
 import java.util.UUID;
 
-/**
- * Created by nowcoder on 2018/08/07 下午2:38
- */
 public class UuidUtils {
 
   public static String next(){

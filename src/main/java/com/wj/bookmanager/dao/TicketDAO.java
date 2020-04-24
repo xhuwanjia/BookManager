@@ -7,9 +7,6 @@ import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
-/**
- * Created by nowcoder on 2018/08/04 下午3:44
- */
 @Mapper
 public interface TicketDAO {
 
